@@ -32,3 +32,20 @@ D:\ITI-Tasks\DoctorDiet\DoctorDiet.Profiles\obj\Debug\net7.0\DoctorDiet.Profiles
 D:\ITI-Tasks\DoctorDiet\DoctorDiet.Profiles\obj\Debug\net7.0\refint\DoctorDiet.Profiles.dll
 D:\ITI-Tasks\DoctorDiet\DoctorDiet.Profiles\obj\Debug\net7.0\DoctorDiet.Profiles.pdb
 D:\ITI-Tasks\DoctorDiet\DoctorDiet.Profiles\obj\Debug\net7.0\ref\DoctorDiet.Profiles.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Profiles\bin\Debug\net7.0\DoctorDiet.Profiles.deps.json
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Profiles\bin\Debug\net7.0\DoctorDiet.Profiles.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Profiles\bin\Debug\net7.0\DoctorDiet.Profiles.pdb
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Profiles\bin\Debug\net7.0\DoctorDiet.Dto.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Profiles\bin\Debug\net7.0\DoctorDiet.Models.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Profiles\bin\Debug\net7.0\DoctorDiet.Dto.pdb
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Profiles\bin\Debug\net7.0\DoctorDiet.Models.pdb
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Profiles\obj\Debug\net7.0\DoctorDiet.Profiles.csproj.AssemblyReference.cache
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Profiles\obj\Debug\net7.0\DoctorDiet.Profiles.GeneratedMSBuildEditorConfig.editorconfig
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Profiles\obj\Debug\net7.0\DoctorDiet.Profiles.AssemblyInfoInputs.cache
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Profiles\obj\Debug\net7.0\DoctorDiet.Profiles.AssemblyInfo.cs
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Profiles\obj\Debug\net7.0\DoctorDiet.Profiles.csproj.CoreCompileInputs.cache
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Profiles\obj\Debug\net7.0\DoctorDiet.Profiles.csproj.CopyComplete
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Profiles\obj\Debug\net7.0\DoctorDiet.Profiles.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Profiles\obj\Debug\net7.0\refint\DoctorDiet.Profiles.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Profiles\obj\Debug\net7.0\DoctorDiet.Profiles.pdb
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Profiles\obj\Debug\net7.0\ref\DoctorDiet.Profiles.dll

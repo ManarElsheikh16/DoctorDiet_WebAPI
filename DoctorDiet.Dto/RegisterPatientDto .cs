@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using DoctorDiet.Models;
+using System.ComponentModel.DataAnnotations;
 
 namespace DoctorDiet.DTO
 {
@@ -9,10 +10,12 @@ namespace DoctorDiet.DTO
         public double Weight { get; set; }
         public double Height { get; set; }
       
-        public string Goal { get; set; }
+        public List<Goal> Goal { get; set; }
 
         public DateTime BirthDate { get; set; }
         public string Diseases { get; set; }
+        public List<NoEat> noEats { get; set; }
+        public List<ActivityRate> ActivityRates { get; set; }
 
     }
 }

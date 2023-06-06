@@ -10,6 +10,7 @@ using DoctorDiet.Models;
 using DoctorDiet.Repository.UnitOfWork;
 using DoctorDiet.Services;
 using System;
+using System.Security.Permissions;
 
 namespace DoctorDiet.API.Controllers
 {
@@ -21,14 +22,20 @@ namespace DoctorDiet.API.Controllers
         private readonly IConfiguration configuration;
         private IMapper _mapper;
         private AccountService _accountService;
+        private NoEatService _noEatService;
         IUnitOfWork _unitOfWork;
-        public AccountController(UserManager<ApplicationUser> userManager, IConfiguration configuration,IMapper mapper, AccountService accountService, IUnitOfWork unitOfWork)
+        public AccountController(UserManager<ApplicationUser> userManager,
+            IConfiguration configuration,IMapper mapper, AccountService accountService, NoEatService _noEatService
+            ,IUnitOfWork unitOfWork)
         {
             this.userManager = userManager;
             this.configuration = configuration;
             _mapper=mapper;
             _accountService = accountService;
             _unitOfWork = unitOfWork;
+            _noEatService = _noEatService;
+
+
         }
 
         [HttpPost("PatientRegister")]
@@ -47,22 +54,45 @@ namespace DoctorDiet.API.Controllers
 
                 if (result.Succeeded)
                 {
-
-
                     await userManager.AddToRoleAsync(ApplicationUser, "Patient");
                     Patient patient = new Patient();
 
                     patient.Id = ApplicationUser.Id;
+/*
                     patient.FullName=registerPatientDto.FullName;
                     patient.Gender = registerPatientDto.Gender;
                     patient.Height = registerPatientDto.Height;
                     patient.Weight = registerPatientDto.Weight;
-                    patient.Goal = registerPatientDto.Goal;
                     patient.BirthDate = registerPatientDto.BirthDate;
-                    patient.Diseases = registerPatientDto.Diseases;
-                    patient.ApplicationUser= ApplicationUser;
-                   
+                    patient.Diseases = registerPatientDto.Diseases;*/
 
+
+                    patient=_mapper.Map<Patient>(registerPatientDto);
+
+                    //patient.ApplicationUser= ApplicationUser;
+                  /*  foreach (var noeat in registerPatientDto.noEats)
+                               patient.NoEat.Add(
+
+                                   _noEatService.AddNoEat(noeat)
+                            );
+
+                    foreach (var ActRate in registerPatientDto.ActivityRates)
+                        patient.ActivityRates.Add(new ActivityRate
+                        {
+                            Name = ActRate.Name,
+                            IsDeleted = false
+
+                        }
+                        );
+
+                    foreach (var Goal in registerPatientDto.Goal)
+                        patient.Goal.Add(new Goal
+                        {
+                            Name = Goal.Name,
+                            IsDeleted = false
+                        });
+
+*/
 
                     _accountService.AddPatient(patient);
                     _unitOfWork.CommitChanges();

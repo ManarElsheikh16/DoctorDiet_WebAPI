@@ -15,3 +15,20 @@ D:\ITI-Tasks\DoctorDiet\DoctorDiet.Data\obj\Debug\net7.0\refint\DoctorDiet.Data.
 D:\ITI-Tasks\DoctorDiet\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.pdb
 D:\ITI-Tasks\DoctorDiet\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.genruntimeconfig.cache
 D:\ITI-Tasks\DoctorDiet\DoctorDiet.Data\obj\Debug\net7.0\ref\DoctorDiet.Data.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\bin\Debug\net7.0\DoctorDiet.Data.deps.json
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\bin\Debug\net7.0\DoctorDiet.Data.runtimeconfig.json
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\bin\Debug\net7.0\DoctorDiet.Data.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\bin\Debug\net7.0\DoctorDiet.Data.pdb
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\bin\Debug\net7.0\DoctorDiet.Models.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\bin\Debug\net7.0\DoctorDiet.Models.pdb
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.csproj.AssemblyReference.cache
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.AssemblyInfoInputs.cache
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.AssemblyInfo.cs
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.csproj.CoreCompileInputs.cache
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.csproj.CopyComplete
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\obj\Debug\net7.0\refint\DoctorDiet.Data.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.pdb
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.genruntimeconfig.cache
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\obj\Debug\net7.0\ref\DoctorDiet.Data.dll

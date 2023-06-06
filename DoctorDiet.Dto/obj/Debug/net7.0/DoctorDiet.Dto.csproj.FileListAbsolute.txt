@@ -13,3 +13,18 @@ D:\ITI-Tasks\DoctorDiet\DoctorDiet.Dto\obj\Debug\net7.0\DoctorDiet.Dto.dll
 D:\ITI-Tasks\DoctorDiet\DoctorDiet.Dto\obj\Debug\net7.0\refint\DoctorDiet.Dto.dll
 D:\ITI-Tasks\DoctorDiet\DoctorDiet.Dto\obj\Debug\net7.0\DoctorDiet.Dto.pdb
 D:\ITI-Tasks\DoctorDiet\DoctorDiet.Dto\obj\Debug\net7.0\ref\DoctorDiet.Dto.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Dto\bin\Debug\net7.0\DoctorDiet.Dto.deps.json
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Dto\bin\Debug\net7.0\DoctorDiet.Dto.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Dto\bin\Debug\net7.0\DoctorDiet.Dto.pdb
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Dto\bin\Debug\net7.0\DoctorDiet.Models.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Dto\bin\Debug\net7.0\DoctorDiet.Models.pdb
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Dto\obj\Debug\net7.0\DoctorDiet.Dto.csproj.AssemblyReference.cache
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Dto\obj\Debug\net7.0\DoctorDiet.Dto.GeneratedMSBuildEditorConfig.editorconfig
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Dto\obj\Debug\net7.0\DoctorDiet.Dto.AssemblyInfoInputs.cache
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Dto\obj\Debug\net7.0\DoctorDiet.Dto.AssemblyInfo.cs
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Dto\obj\Debug\net7.0\DoctorDiet.Dto.csproj.CoreCompileInputs.cache
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Dto\obj\Debug\net7.0\DoctorDiet.Dto.csproj.CopyComplete
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Dto\obj\Debug\net7.0\DoctorDiet.Dto.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Dto\obj\Debug\net7.0\refint\DoctorDiet.Dto.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Dto\obj\Debug\net7.0\DoctorDiet.Dto.pdb
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Dto\obj\Debug\net7.0\ref\DoctorDiet.Dto.dll

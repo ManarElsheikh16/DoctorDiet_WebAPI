@@ -15,3 +15,20 @@ D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repo
 D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\obj\Debug\net7.0\refint\DoctorDiet.Repositories.dll
 D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.pdb
 D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\obj\Debug\net7.0\ref\DoctorDiet.Repositories.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Repositories.deps.json
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Repositories.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Repositories.pdb
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Data.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Models.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Data.pdb
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Models.pdb
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.csproj.AssemblyReference.cache
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.AssemblyInfoInputs.cache
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.AssemblyInfo.cs
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.csproj.CoreCompileInputs.cache
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.csproj.CopyComplete
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\obj\Debug\net7.0\refint\DoctorDiet.Repositories.dll
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.pdb
+F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\obj\Debug\net7.0\ref\DoctorDiet.Repositories.dll

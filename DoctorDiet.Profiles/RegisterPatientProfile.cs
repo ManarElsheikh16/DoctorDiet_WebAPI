@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sakiny.Profiles
+namespace DoctorDiet.Profiles
 {
     public class RegisterPatientProfile:Profile
     {
@@ -15,6 +15,14 @@ namespace Sakiny.Profiles
         {
             CreateMap<RegisterPatientDto, ApplicationUser>()
             .ForMember(dst => dst.ProfileImage, opt => opt.Ignore());
+
+            CreateMap<RegisterPatientDto, Patient>()
+                .ForMember(dst => dst.Id, opt => opt.Ignore());
+                //.ForMember(dst => dst.ActivityRates, opt => opt.Ignore())
+                //.ForMember(dst => dst.NoEat, opt => opt.Ignore())
+                //.ForMember(dst => dst.Goal, opt => opt.Ignore());
+                
+
         }
     }
 }
