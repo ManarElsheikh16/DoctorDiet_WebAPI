@@ -1,0 +1,12 @@
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Models\obj\Debug\net7.0\DoctorDiet.Models.csproj.AssemblyReference.cache
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Models\obj\Debug\net7.0\DoctorDiet.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Models\obj\Debug\net7.0\DoctorDiet.Models.AssemblyInfoInputs.cache
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Models\obj\Debug\net7.0\DoctorDiet.Models.AssemblyInfo.cs
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Models\obj\Debug\net7.0\DoctorDiet.Models.csproj.CoreCompileInputs.cache
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Models\bin\Debug\net7.0\DoctorDiet.Models.deps.json
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Models\bin\Debug\net7.0\DoctorDiet.Models.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Models\bin\Debug\net7.0\DoctorDiet.Models.pdb
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Models\obj\Debug\net7.0\DoctorDiet.Models.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Models\obj\Debug\net7.0\refint\DoctorDiet.Models.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Models\obj\Debug\net7.0\DoctorDiet.Models.pdb
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Models\obj\Debug\net7.0\ref\DoctorDiet.Models.dll

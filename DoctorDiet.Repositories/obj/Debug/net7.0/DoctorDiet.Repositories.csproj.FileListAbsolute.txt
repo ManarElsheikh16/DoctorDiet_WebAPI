@@ -1,0 +1,17 @@
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.csproj.AssemblyReference.cache
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.AssemblyInfoInputs.cache
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.AssemblyInfo.cs
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.csproj.CoreCompileInputs.cache
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Repositories.deps.json
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Repositories.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Repositories.pdb
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Data.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Models.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Data.pdb
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Models.pdb
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.csproj.CopyComplete
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\obj\Debug\net7.0\refint\DoctorDiet.Repositories.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.pdb
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.Repositories\obj\Debug\net7.0\ref\DoctorDiet.Repositories.dll

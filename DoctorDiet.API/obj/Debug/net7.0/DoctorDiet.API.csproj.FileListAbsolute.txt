@@ -1,0 +1,409 @@
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.csproj.AssemblyReference.cache
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.AssemblyInfoInputs.cache
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.AssemblyInfo.cs
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.csproj.CoreCompileInputs.cache
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.MvcApplicationPartsAssemblyInfo.cache
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\appsettings.Development.json
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\appsettings.json
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.API.exe
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.API.deps.json
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.API.runtimeconfig.json
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.API.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.API.pdb
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Autofac.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\AutoMapper.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Azure.Core.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Azure.Identity.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Humanizer.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\JetBrains.Annotations.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Nito.AsyncEx.Context.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Nito.AsyncEx.Coordination.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Nito.AsyncEx.Tasks.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Nito.Collections.Deque.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Nito.Disposables.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\System.CodeDom.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\System.Memory.Data.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\ZhileTime.Hope.AspNetCore.Authentication.JwtBearer.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\ZhileTime.Hope.Core.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\ZhileTime.Hope.Security.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.Data.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.DTO.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.Models.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.Repository.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.Services.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.Repository.pdb
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.Data.pdb
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.DTO.pdb
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.Services.pdb
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.Models.pdb
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\staticwebassets\msbuild.DoctorDiet.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\staticwebassets\msbuild.build.DoctorDiet.API.props
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DoctorDiet.API.props
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DoctorDiet.API.props
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\staticwebassets.pack.json
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\staticwebassets.build.json
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\staticwebassets.development.json
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\scopedcss\bundle\DoctorDiet.API.styles.css
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.csproj.CopyComplete
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\refint\DoctorDiet.API.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.pdb
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.genruntimeconfig.cache
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\ref\DoctorDiet.API.dll
+E:\DoctorDiet_API\Doctor Diet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\refint\DoctorDiet.API.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.pdb
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.csproj.AssemblyReference.cache
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.AssemblyInfoInputs.cache
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.AssemblyInfo.cs
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.csproj.CoreCompileInputs.cache
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\appsettings.Development.json
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\appsettings.json
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.API.exe
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.API.deps.json
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.API.runtimeconfig.json
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.API.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.API.pdb
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Autofac.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\AutoMapper.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Azure.Core.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Azure.Identity.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Humanizer.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\JetBrains.Annotations.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Nito.AsyncEx.Context.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Nito.AsyncEx.Coordination.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Nito.AsyncEx.Tasks.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Nito.Collections.Deque.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Nito.Disposables.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\System.CodeDom.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\ZhileTime.Hope.AspNetCore.Authentication.JwtBearer.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\ZhileTime.Hope.Core.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\ZhileTime.Hope.Security.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.Data.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.DTO.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.Models.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.Repository.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.Services.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.Repository.pdb
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.Data.pdb
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.DTO.pdb
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.Services.pdb
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.Models.pdb
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\staticwebassets\msbuild.DoctorDiet.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\staticwebassets\msbuild.build.DoctorDiet.API.props
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DoctorDiet.API.props
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DoctorDiet.API.props
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\scopedcss\bundle\DoctorDiet.API.styles.css
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.csproj.CopyComplete
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\DoctorDiet.API.genruntimeconfig.cache
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\obj\Debug\net7.0\ref\DoctorDiet.API.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\AutoMapper.Extensions.ExpressionMapping.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.Profiles.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\DoctorDiet.Profiles.pdb
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Crc32.NET.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\jose-jwt.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\LibNoise.NetStandart.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\log4net.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Maybe.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\MiNET.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\AStarNavigator.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\fNbt.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\MiNET.LevelDB.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\SharpAvi.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\SixLabors.Fonts.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\SixLabors.ImageSharp.Drawing.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\Sakiny.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\DoctorDiet.API.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\refint\DoctorDiet.API.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\DoctorDiet.API.pdb
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\DoctorDiet.API.csproj.AssemblyReference.cache
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\DoctorDiet.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\DoctorDiet.API.AssemblyInfoInputs.cache
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\DoctorDiet.API.AssemblyInfo.cs
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\DoctorDiet.API.csproj.CoreCompileInputs.cache
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\DoctorDiet.API.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\DoctorDiet.API.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\appsettings.Development.json
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\appsettings.json
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\DoctorDiet.API.exe
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\DoctorDiet.API.deps.json
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\DoctorDiet.API.runtimeconfig.json
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\DoctorDiet.API.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\DoctorDiet.API.pdb
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Autofac.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Autofac.Extensions.DependencyInjection.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\AutoMapper.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\AutoMapper.Extensions.ExpressionMapping.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Azure.Core.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Azure.Identity.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Crc32.NET.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Humanizer.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\jose-jwt.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\LibNoise.NetStandart.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\log4net.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Maybe.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\MiNET.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\AStarNavigator.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\fNbt.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\MiNET.LevelDB.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\SharpAvi.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\SixLabors.Fonts.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\SixLabors.ImageSharp.Drawing.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\System.CodeDom.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\DoctorDiet.Data.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\DoctorDiet.Dto.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\DoctorDiet.Models.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\DoctorDiet.Profiles.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\DoctorDiet.Repositories.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\DoctorDiet.Services.dll
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\DoctorDiet.Models.pdb
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\DoctorDiet.Data.pdb
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\DoctorDiet.Dto.pdb
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\DoctorDiet.Profiles.pdb
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\DoctorDiet.Repositories.pdb
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\bin\Debug\net7.0\DoctorDiet.Services.pdb
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\staticwebassets\msbuild.DoctorDiet.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\staticwebassets\msbuild.build.DoctorDiet.API.props
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DoctorDiet.API.props
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DoctorDiet.API.props
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\scopedcss\bundle\DoctorDiet.API.styles.css
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\DoctorDiet.API.csproj.CopyComplete
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\DoctorDiet.API.genruntimeconfig.cache
+D:\ITI-Tasks\DoctorDiet\DoctorDiet.API\obj\Debug\net7.0\ref\DoctorDiet.API.dll
