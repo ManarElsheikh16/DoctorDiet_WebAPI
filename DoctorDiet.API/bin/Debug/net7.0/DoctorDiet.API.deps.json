@@ -1284,7 +1284,7 @@
           "Microsoft.AspNetCore.Http.Features": "5.0.17"
         },
         "runtime": {
-          "DoctorDiet.DTO.dll": {}
+          "DoctorDiet.Dto.dll": {}
         }
       },
       "DoctorDiet.Models/1.0.0": {

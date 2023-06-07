@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using DoctorDiet.Dto;
 using DoctorDiet.DTO;
 using DoctorDiet.Models;
 using DoctorDiet.Repository.Interfaces;
@@ -17,20 +18,21 @@ namespace DoctorDiet.Services
         IGenericRepository<NoEat, int> _noEatsRepository;
         IUnitOfWork _unitOfWork;
         IMapper _mapper;
-        public NoEatService(IGenericRepository<NoEat, int> noeatsRepository, IUnitOfWork unitOfWork, IMapper mapper )
+        public NoEatService(IGenericRepository<NoEat, int> noeatsRepository, IUnitOfWork unitOfWork, IMapper mapper)
         {
             _noEatsRepository = noeatsRepository;
             _unitOfWork = unitOfWork;
             _mapper = mapper;
+         
         }
 
-        public NoEat AddNoEat(NoEat noEatData)
+        public NoEat AddNoEat(NoEat noeat)
         {
-            NoEat noEat = _mapper.Map<NoEat>(noEatData);
-            _noEatsRepository.Add(noEat);
+/*            NoEat noEat=_mapper.Map<NoEat>(NoEatDto);*/
+            _noEatsRepository.Add(noeat);
             _unitOfWork.SaveChanges();
 
-            return noEat;
+            return noeat;
 
         }
 

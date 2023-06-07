@@ -13,15 +13,18 @@ namespace DoctorDiet.Services
     {
         IUnitOfWork _UnitOfWork;
         IAccountRepository _accountRepository;
+       
 
         public AccountService(IUnitOfWork unitOfWork, IAccountRepository accountRepository)
         {
             _UnitOfWork = unitOfWork;
             _accountRepository = accountRepository;
+            
         }
 
         public void AddPatient(Patient Patient)
         {
+
             _accountRepository.AddPatient(Patient);
             _UnitOfWork.SaveChanges();
         }

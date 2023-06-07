@@ -17,11 +17,10 @@ namespace DoctorDiet.Profiles
             .ForMember(dst => dst.ProfileImage, opt => opt.Ignore());
 
             CreateMap<RegisterPatientDto, Patient>()
-                .ForMember(dst => dst.Id, opt => opt.Ignore());
-                //.ForMember(dst => dst.ActivityRates, opt => opt.Ignore())
-                //.ForMember(dst => dst.NoEat, opt => opt.Ignore())
-                //.ForMember(dst => dst.Goal, opt => opt.Ignore());
-                
+                .ForMember(dst => dst.ActivityRates, opt => opt.Ignore())
+                .ForMember(dst => dst.NoEat, opt => opt.Ignore())
+                .ForMember(dst => dst.Goal, opt => opt.Ignore()).ReverseMap();
+
 
         }
     }

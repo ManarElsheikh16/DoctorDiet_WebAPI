@@ -7729,19 +7729,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\menat\\.nuget\\packages\\": {}
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\FreeLancing Jobs\\DoctorDietAPI\\DoctorDiet.API\\DoctorDiet.API.csproj",
+      "projectUniqueName": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.API\\DoctorDiet.API.csproj",
       "projectName": "DoctorDiet.API",
-      "projectPath": "F:\\FreeLancing Jobs\\DoctorDietAPI\\DoctorDiet.API\\DoctorDiet.API.csproj",
-      "packagesPath": "C:\\Users\\menat\\.nuget\\packages\\",
-      "outputPath": "F:\\FreeLancing Jobs\\DoctorDietAPI\\DoctorDiet.API\\obj\\",
+      "projectPath": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.API\\DoctorDiet.API.csproj",
+      "packagesPath": "C:\\Users\\Electronica Care\\.nuget\\packages\\",
+      "outputPath": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.API\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\menat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Electronica Care\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7749,30 +7754,29 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\FreeLancing Jobs\\DoctorDietAPI\\DoctorDiet.Data\\DoctorDiet.Data.csproj": {
-              "projectPath": "F:\\FreeLancing Jobs\\DoctorDietAPI\\DoctorDiet.Data\\DoctorDiet.Data.csproj"
+            "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Data\\DoctorDiet.Data.csproj": {
+              "projectPath": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Data\\DoctorDiet.Data.csproj"
             },
-            "F:\\FreeLancing Jobs\\DoctorDietAPI\\DoctorDiet.DTO\\DoctorDiet.DTO.csproj": {
-              "projectPath": "F:\\FreeLancing Jobs\\DoctorDietAPI\\DoctorDiet.DTO\\DoctorDiet.DTO.csproj"
+            "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.DTO\\DoctorDiet.DTO.csproj": {
+              "projectPath": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.DTO\\DoctorDiet.DTO.csproj"
             },
-            "F:\\FreeLancing Jobs\\DoctorDietAPI\\DoctorDiet.Models\\DoctorDiet.Models.csproj": {
-              "projectPath": "F:\\FreeLancing Jobs\\DoctorDietAPI\\DoctorDiet.Models\\DoctorDiet.Models.csproj"
+            "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Models\\DoctorDiet.Models.csproj": {
+              "projectPath": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Models\\DoctorDiet.Models.csproj"
             },
-            "F:\\FreeLancing Jobs\\DoctorDietAPI\\DoctorDiet.Profiles\\DoctorDiet.Profiles.csproj": {
-              "projectPath": "F:\\FreeLancing Jobs\\DoctorDietAPI\\DoctorDiet.Profiles\\DoctorDiet.Profiles.csproj"
+            "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Profiles\\DoctorDiet.Profiles.csproj": {
+              "projectPath": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Profiles\\DoctorDiet.Profiles.csproj"
             },
-            "F:\\FreeLancing Jobs\\DoctorDietAPI\\DoctorDiet.Repositories\\DoctorDiet.Repositories.csproj": {
-              "projectPath": "F:\\FreeLancing Jobs\\DoctorDietAPI\\DoctorDiet.Repositories\\DoctorDiet.Repositories.csproj"
+            "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Repositories\\DoctorDiet.Repositories.csproj": {
+              "projectPath": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Repositories\\DoctorDiet.Repositories.csproj"
             },
-            "F:\\FreeLancing Jobs\\DoctorDietAPI\\DoctorDiet.Services\\DoctorDiet.Services.csproj": {
-              "projectPath": "F:\\FreeLancing Jobs\\DoctorDietAPI\\DoctorDiet.Services\\DoctorDiet.Services.csproj"
+            "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Services\\DoctorDiet.Services.csproj": {
+              "projectPath": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Services\\DoctorDiet.Services.csproj"
             }
           }
         }
@@ -7855,7 +7859,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

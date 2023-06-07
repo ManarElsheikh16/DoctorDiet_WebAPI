@@ -16,5 +16,8 @@ namespace DoctorDiet.Models
 
         [DefaultValue("false")]
         public bool IsDeleted { get; set; }
+        [ForeignKey("Patient")]
+        public string PatientId { get; set; }
+        public Patient Patient { get; set; }
     }
 }
