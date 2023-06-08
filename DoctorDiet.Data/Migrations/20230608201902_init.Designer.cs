@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DoctorDiet.Data.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20230607124309_init")]
+    [Migration("20230608201902_init")]
     partial class init
     {
         /// <inheritdoc />

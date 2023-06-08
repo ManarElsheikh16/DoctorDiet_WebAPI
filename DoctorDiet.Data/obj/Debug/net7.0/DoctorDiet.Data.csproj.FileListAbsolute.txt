@@ -32,3 +32,20 @@ F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\obj\Debug\net7.0\refint\Doctor
 F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.pdb
 F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.genruntimeconfig.cache
 F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Data\obj\Debug\net7.0\ref\DoctorDiet.Data.dll
+D:\DoctorDietApi\DoctorDiet.Data\bin\Debug\net7.0\DoctorDiet.Data.deps.json
+D:\DoctorDietApi\DoctorDiet.Data\bin\Debug\net7.0\DoctorDiet.Data.runtimeconfig.json
+D:\DoctorDietApi\DoctorDiet.Data\bin\Debug\net7.0\DoctorDiet.Data.dll
+D:\DoctorDietApi\DoctorDiet.Data\bin\Debug\net7.0\DoctorDiet.Data.pdb
+D:\DoctorDietApi\DoctorDiet.Data\bin\Debug\net7.0\DoctorDiet.Models.dll
+D:\DoctorDietApi\DoctorDiet.Data\bin\Debug\net7.0\DoctorDiet.Models.pdb
+D:\DoctorDietApi\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.csproj.AssemblyReference.cache
+D:\DoctorDietApi\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoctorDietApi\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.AssemblyInfoInputs.cache
+D:\DoctorDietApi\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.AssemblyInfo.cs
+D:\DoctorDietApi\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.csproj.CoreCompileInputs.cache
+D:\DoctorDietApi\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.csproj.CopyComplete
+D:\DoctorDietApi\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.dll
+D:\DoctorDietApi\DoctorDiet.Data\obj\Debug\net7.0\refint\DoctorDiet.Data.dll
+D:\DoctorDietApi\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.pdb
+D:\DoctorDietApi\DoctorDiet.Data\obj\Debug\net7.0\DoctorDiet.Data.genruntimeconfig.cache
+D:\DoctorDietApi\DoctorDiet.Data\obj\Debug\net7.0\ref\DoctorDiet.Data.dll

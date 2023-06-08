@@ -32,3 +32,20 @@ F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\obj\Debug\net7.0\Docto
 F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\obj\Debug\net7.0\refint\DoctorDiet.Repositories.dll
 F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.pdb
 F:\FreeLancing Jobs\DoctorDietAPI\DoctorDiet.Repositories\obj\Debug\net7.0\ref\DoctorDiet.Repositories.dll
+D:\DoctorDietApi\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Repositories.deps.json
+D:\DoctorDietApi\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Repositories.dll
+D:\DoctorDietApi\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Repositories.pdb
+D:\DoctorDietApi\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Data.dll
+D:\DoctorDietApi\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Models.dll
+D:\DoctorDietApi\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Data.pdb
+D:\DoctorDietApi\DoctorDiet.Repositories\bin\Debug\net7.0\DoctorDiet.Models.pdb
+D:\DoctorDietApi\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.csproj.AssemblyReference.cache
+D:\DoctorDietApi\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoctorDietApi\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.AssemblyInfoInputs.cache
+D:\DoctorDietApi\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.AssemblyInfo.cs
+D:\DoctorDietApi\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.csproj.CoreCompileInputs.cache
+D:\DoctorDietApi\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.csproj.CopyComplete
+D:\DoctorDietApi\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.dll
+D:\DoctorDietApi\DoctorDiet.Repositories\obj\Debug\net7.0\refint\DoctorDiet.Repositories.dll
+D:\DoctorDietApi\DoctorDiet.Repositories\obj\Debug\net7.0\DoctorDiet.Repositories.pdb
+D:\DoctorDietApi\DoctorDiet.Repositories\obj\Debug\net7.0\ref\DoctorDiet.Repositories.dll

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,7 +17,9 @@ namespace DoctorDiet.Services
     { 
     
         IGenericRepository<Patient, string> _repositry;
-        IMapper _mapper;
+    IGenericRepository<Doctor, string> _DoctorRepositry;
+
+    IMapper _mapper;
         NoEatService _NoEatService;
         GoalService _goalService;
         ActivityRateService _ActivityRateService;
@@ -83,5 +85,23 @@ namespace DoctorDiet.Services
             return patient;
 
         }
+
+
+    public void UpdatePatient(string PatientId, RegisterPatientDto registerPatientDto, params string[] updatedProp)
+    {
+
+      Patient patient = _repositry.Get(patient=> patient.Id==PatientId).FirstOrDefault();
+      patient= _mapper.Map<Patient>(registerPatientDto);
+      _repositry.Update(patient, updatedProp);
+      _unitOfWork.SaveChanges();
     }
+    public IQueryable<RegisterPatientDto> AllPatients (string DoctorId)
+    {
+       Doctor doctor=  _DoctorRepositry.Get(doctor=>doctor.Id==DoctorId).FirstOrDefault();
+      IQueryable<Patient> patients = (IQueryable<Patient>)doctor.Patients;
+     return   _mapper.ProjectTo<RegisterPatientDto>(patients);
+ 
+    }
+
+  }
 }

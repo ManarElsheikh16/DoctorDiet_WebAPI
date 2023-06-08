@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Profiles\\DoctorDiet.Profiles.csproj": {}
+    "D:\\DoctorDietApi\\DoctorDiet.Profiles\\DoctorDiet.Profiles.csproj": {}
   },
   "projects": {
-    "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Dto\\DoctorDiet.Dto.csproj": {
+    "D:\\DoctorDietApi\\DoctorDiet.Dto\\DoctorDiet.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Dto\\DoctorDiet.Dto.csproj",
+        "projectUniqueName": "D:\\DoctorDietApi\\DoctorDiet.Dto\\DoctorDiet.Dto.csproj",
         "projectName": "DoctorDiet.Dto",
-        "projectPath": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Dto\\DoctorDiet.Dto.csproj",
-        "packagesPath": "C:\\Users\\Electronica Care\\.nuget\\packages\\",
-        "outputPath": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Dto\\obj\\",
+        "projectPath": "D:\\DoctorDietApi\\DoctorDiet.Dto\\DoctorDiet.Dto.csproj",
+        "packagesPath": "C:\\Users\\Al Lewaa Company\\.nuget\\packages\\",
+        "outputPath": "D:\\DoctorDietApi\\DoctorDiet.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Electronica Care\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Al Lewaa Company\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Models\\DoctorDiet.Models.csproj": {
-                "projectPath": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Models\\DoctorDiet.Models.csproj"
+              "D:\\DoctorDietApi\\DoctorDiet.Models\\DoctorDiet.Models.csproj": {
+                "projectPath": "D:\\DoctorDietApi\\DoctorDiet.Models\\DoctorDiet.Models.csproj"
               }
             }
           }
@@ -69,24 +69,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Models\\DoctorDiet.Models.csproj": {
+    "D:\\DoctorDietApi\\DoctorDiet.Models\\DoctorDiet.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Models\\DoctorDiet.Models.csproj",
+        "projectUniqueName": "D:\\DoctorDietApi\\DoctorDiet.Models\\DoctorDiet.Models.csproj",
         "projectName": "DoctorDiet.Models",
-        "projectPath": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Models\\DoctorDiet.Models.csproj",
-        "packagesPath": "C:\\Users\\Electronica Care\\.nuget\\packages\\",
-        "outputPath": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Models\\obj\\",
+        "projectPath": "D:\\DoctorDietApi\\DoctorDiet.Models\\DoctorDiet.Models.csproj",
+        "packagesPath": "C:\\Users\\Al Lewaa Company\\.nuget\\packages\\",
+        "outputPath": "D:\\DoctorDietApi\\DoctorDiet.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Electronica Care\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Al Lewaa Company\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -134,24 +134,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Profiles\\DoctorDiet.Profiles.csproj": {
+    "D:\\DoctorDietApi\\DoctorDiet.Profiles\\DoctorDiet.Profiles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Profiles\\DoctorDiet.Profiles.csproj",
+        "projectUniqueName": "D:\\DoctorDietApi\\DoctorDiet.Profiles\\DoctorDiet.Profiles.csproj",
         "projectName": "DoctorDiet.Profiles",
-        "projectPath": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Profiles\\DoctorDiet.Profiles.csproj",
-        "packagesPath": "C:\\Users\\Electronica Care\\.nuget\\packages\\",
-        "outputPath": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Profiles\\obj\\",
+        "projectPath": "D:\\DoctorDietApi\\DoctorDiet.Profiles\\DoctorDiet.Profiles.csproj",
+        "packagesPath": "C:\\Users\\Al Lewaa Company\\.nuget\\packages\\",
+        "outputPath": "D:\\DoctorDietApi\\DoctorDiet.Profiles\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Electronica Care\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Al Lewaa Company\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -166,11 +166,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.DTO\\DoctorDiet.DTO.csproj": {
-                "projectPath": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.DTO\\DoctorDiet.DTO.csproj"
+              "D:\\DoctorDietApi\\DoctorDiet.DTO\\DoctorDiet.DTO.csproj": {
+                "projectPath": "D:\\DoctorDietApi\\DoctorDiet.DTO\\DoctorDiet.DTO.csproj"
               },
-              "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Models\\DoctorDiet.Models.csproj": {
-                "projectPath": "D:\\ITI-Tasks\\DoctorDiet\\DoctorDiet.Models\\DoctorDiet.Models.csproj"
+              "D:\\DoctorDietApi\\DoctorDiet.Models\\DoctorDiet.Models.csproj": {
+                "projectPath": "D:\\DoctorDietApi\\DoctorDiet.Models\\DoctorDiet.Models.csproj"
               }
             }
           }
@@ -214,7 +214,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
