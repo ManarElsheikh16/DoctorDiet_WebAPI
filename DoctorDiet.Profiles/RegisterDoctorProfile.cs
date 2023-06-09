@@ -16,6 +16,7 @@ namespace Sakiny.Profiles
 
             CreateMap<RegisterDoctorDto, ApplicationUser>()
             .ForMember(dst => dst.ProfileImage, opt => opt.Ignore());
+            CreateMap<Doctor, RegisterDoctorDto>();
 
         }
     }

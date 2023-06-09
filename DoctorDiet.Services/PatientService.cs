@@ -14,16 +14,25 @@ using DoctorDiet.Repository.UnitOfWork;
 namespace DoctorDiet.Services
 {
     public class PatientService
-    { 
-    
+    {
+
         IGenericRepository<Patient, string> _repositry;
         IMapper _mapper;
         NoEatService _NoEatService;
         GoalService _goalService;
         ActivityRateService _ActivityRateService;
         AccountService _accountService;
+        CustomPlanService _customPlanService;
         IUnitOfWork _unitOfWork;
-        public PatientService(IGenericRepository<Patient, string> Repositry, IMapper mapper, NoEatService NoEatService, GoalService goalService, ActivityRateService ActivityRateService, AccountService accountService, IUnitOfWork unitOfWork)
+        public PatientService(IGenericRepository<Patient
+            , string> Repositry
+            , IMapper mapper
+            , NoEatService NoEatService
+            , GoalService goalService
+            , ActivityRateService ActivityRateService
+            , AccountService accountService
+            , IUnitOfWork unitOfWork
+            ,CustomPlanService customPlanService)
         {
             _repositry = Repositry;
             _mapper = mapper;
@@ -32,6 +41,7 @@ namespace DoctorDiet.Services
             _goalService = goalService;
             _accountService = accountService;
             _unitOfWork = unitOfWork;
+            _customPlanService = customPlanService;
         }
         public Patient GetPatientData(string id)
         {
@@ -78,10 +88,34 @@ namespace DoctorDiet.Services
                 _goalService.AddGoal(Goal);
             }
 
-            
+
 
             return patient;
 
+        }
+
+        public List<List<Day>> GetEveryDayWithMealsOfDay(string patientID)
+        {
+            List<CustomPlan> customPlans = _customPlanService.GetPlans(d => d.PatientId == patientID).ToList();
+            List<Day> day = new List<Day>();   
+            List<List<Day>> Alldays = new List<List<Day>>();   
+            foreach(var customPLan in customPlans)
+            {
+                day = customPLan.Days;
+                Alldays.Add(day);
+
+            }
+
+            return Alldays;
+
+        }
+
+        public List<CustomPlan> GetPatientHistory(string patientID)
+        {
+            Patient patient=GetPatientData(patientID);
+            List<CustomPlan> customPlans = patient.CustomPlans;
+
+            return customPlans;
         }
     }
 }

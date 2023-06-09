@@ -1,4 +1,5 @@
-﻿using DoctorDiet.Services;
+﻿using DoctorDiet.DTO;
+using DoctorDiet.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DoctorDiet.API.Controllers
@@ -23,6 +24,20 @@ namespace DoctorDiet.API.Controllers
 
             return Ok(doctor);
 
+        }
+        [HttpGet("GetAllDoctors")]
+        public IActionResult GetAllDoctor() 
+        {
+            if(ModelState.IsValid)
+            {
+              IQueryable<RegisterDoctorDto> doctors= _doctorService.GetListOfDoctors();
+                return Ok(doctors);
+            }
+            else
+            {
+                return BadRequest(ModelState);
+            }
+           
         }
     }
 }

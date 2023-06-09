@@ -15,12 +15,16 @@ namespace DoctorDiet.API.Config
             builder.RegisterType(typeof(Context)).InstancePerLifetimeScope();
             builder.RegisterGeneric(typeof(GenericRepository<,>)).As(typeof(IGenericRepository<,>)).InstancePerLifetimeScope();
             builder.RegisterType(typeof(AccountRepository)).As(typeof(IAccountRepository)).InstancePerLifetimeScope();
+            builder.RegisterType(typeof(CustomPlanRepository)).As(typeof(ICustomPlanRepository)).InstancePerLifetimeScope();
             builder.RegisterType(typeof(UnitOfWork)).As(typeof(IUnitOfWork)).InstancePerLifetimeScope();
             builder.RegisterAssemblyTypes(typeof(AccountService).Assembly).InstancePerLifetimeScope();
             builder.RegisterAssemblyTypes(typeof(AdminService).Assembly).InstancePerLifetimeScope();
             builder.RegisterAssemblyTypes(typeof(DoctorService).Assembly).InstancePerLifetimeScope();
             builder.RegisterAssemblyTypes(typeof(PatientService).Assembly).InstancePerLifetimeScope();
             builder.RegisterAssemblyTypes(typeof(NoteService).Assembly).InstancePerLifetimeScope();
+            builder.RegisterAssemblyTypes(typeof(PlanService).Assembly).InstancePerLifetimeScope();
+            builder.RegisterAssemblyTypes(typeof(CustomPlanService).Assembly).InstancePerLifetimeScope();
+
 
         }
     }

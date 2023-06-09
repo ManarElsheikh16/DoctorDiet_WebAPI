@@ -25,7 +25,7 @@ namespace DoctorDiet.Services
 
         public Notes AddNote(NoteCreateDto noteCreateDto) 
         {
-            Notes note=_mapper.Map<Notes>(noteCreateDto);
+            Notes note =_mapper.Map<Notes>(noteCreateDto);
             _notesRepository.Add(note);
             _unitOfWork.SaveChanges();
 
